@@ -3,3 +3,5 @@
 This is my first project using Git and GitHub.
 
 I am learning version control with VS Code.
+
+My first GitHub push was successful!
